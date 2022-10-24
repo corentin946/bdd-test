@@ -1,0 +1,26 @@
+[
+        {
+            "nom": "Paracetamol",
+            "type": "1",
+            "notice": "Ne pas avaler plus de 10 comprimés par jour, espacer de 30 minutes entre chaques prises",
+            "effet_secondaire": "Peut provoquer des gonflements"
+        },
+        {
+            "nom": "Desloratadine",
+            "type": "2",
+            "notice": "Ne pas avaler plus de 1 comprimés par jour, espacer de 45 minutes entre chaques prises",
+            "effet_secondaire": "Peut provoquer des pertes de mémoire"
+        },
+        {
+            "nom": "Spasfond",
+            "type": "3",
+            "notice": "Ne pas avaler plus de 15 comprimés par jour, espacer de 300 minutes entre chaques prises",
+            "effet_secondaire": "Peut provoquer des rougissements"
+        }
+
+    ]
+
+    
+
+    
+    
